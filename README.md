@@ -14,13 +14,6 @@ Currently: 3rd year @ UMIT, SNDT University · Mumbai · Graduating 2027
 AI-powered code analysis tool that explains code at 4 expertise levels — ELI5 to Expert.
 Built with FastAPI + React + Gemini API. Python AST for static analysis. Live on Vercel.
 
-### 📄 Quotation Intelligence Pipeline
-End-to-end document processing system for a real business — 680+ PDF/DOCX/image files, zero manual work.
-7-stage pipeline: OCR → LLM extraction → deduplication → Excel reports. Built with Groq's LLaMA-3.3-70B.
-
-### 💡 IdeaMate
-AI platform for project discovery and developer matching.
-RAG-enabled recommendations, ChromaDB vector store, FastAPI + React + PostgreSQL.
 
 ### 🎯 SmartCareer AI
 ATS resume scorer + mock interview system powered by Gemini 2.0.
