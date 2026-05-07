@@ -1,105 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0&theme=_custom&startColor=f9e4dc&endColor=fadadd&height=200&section=header&text=Sailee%20Desai.&fontSize=55&fontColor=1a1a1a&animation=fadeIn&fontAlignY=45&desc=Building%20intelligent%20systems%20with%20creative%20depth.&descAlignY=68&descSize=15&descFontColor=666666" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&startColor=f5e6e0&endColor=fce4ec&height=160&section=header&text=Sailee%20Desai.&fontSize=58&fontColor=1a1a1a&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&pause=1400&color=b07070&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+AI+Engineer;Building+intelligent+systems+with+creative+depth.;Mumbai+%C2%B7+Open+for+Opportunities" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
+
+### &nbsp;
+
+I build **AI-powered products** — not prototypes, not demos.  
+Things that work in the real world, for real people.
+
+&nbsp;
+
+I'm drawn to the space where **logic meets craft** —  
+where a well-designed system is just as important  
+as a well-designed interface.
+
+&nbsp;
+
+Currently a 3rd-year CST student at UMIT,SNDT University, Mumbai.  
+Graduating 2027. Looking for what's next.
+
+</td>
+<td width="45%" valign="top">
+
+&nbsp;
+
+🟢 &nbsp;`OPEN FOR OPPORTUNITIES`
+
+&nbsp;
+
+♟️ &nbsp;`NATIONAL CHESS PLAYER`
+
+🎓 &nbsp;`B.TECH CS @ SNDT`
+
+🏙️ &nbsp;`MUMBAI, INDIA`
+
+&nbsp;
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## &nbsp;&nbsp;Work
+
+<br/>
+
+**[CodeSense AI ↗](https://codesense-ai-one.vercel.app)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Code analysis tool that explains your code at 4 expertise levels — ELI5 to Expert.  
+&nbsp;&nbsp;&nbsp;&nbsp;Visual execution tracing, bug detection, AI-suggested fixes.  
+&nbsp;&nbsp;&nbsp;&nbsp;`FastAPI` &nbsp;`React` &nbsp;`Gemini API` &nbsp;`Python AST` &nbsp;`Vercel`
+
+<br/>
+
+**SmartCareer AI**  
+&nbsp;&nbsp;&nbsp;&nbsp;ATS resume scorer + mock interview system with real-time answer evaluation.  
+&nbsp;&nbsp;&nbsp;&nbsp;Built during IBM SkillsBuild internship. Live on Streamlit Cloud.  
+&nbsp;&nbsp;&nbsp;&nbsp;`Streamlit` &nbsp;`Gemini 2.0` &nbsp;`Python` &nbsp;`NLP`
+
+<br/>
+
+---
+
+## &nbsp;&nbsp;Stack
+
+<br/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&pause=1200&color=c9857a&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+AI+Engineer+%F0%9F%A4%8D;Shipping+AI+products+people+actually+use+%F0%9F%9A%80;Chess+player+who+codes+%E2%99%9F%EF%B8%8F;Mumbai-based%2C+globally+curious+%F0%9F%8C%8D)](https://git.io/typing-svg)
+| Languages | Frameworks | AI / LLMs | Deploy |
+|:---:|:---:|:---:|:---:|
+| Python · JS · C++ · SQL | FastAPI · React · Node.js | Groq · Gemini · Tesseract | Vercel · Streamlit Cloud |
 
 </div>
 
----
-
-```python
-sailee = {
-    "role"        : "Full-Stack Engineer × AI Product Builder",
-    "based_in"    : "Mumbai, India 🇮🇳",
-    "currently"   : "3rd year CS @ UMIT, SNDT · Graduating 2027",
-    "focus"       : ["LLM-powered products", "Full-stack apps", "Real-world AI tools"],
-    "brain_fuel"  : ["chai ☕", "chess ♟️", "stubborn debugging at 2am 🌙"],
-    "superpower"  : "Turning AI ideas into shipped products",
-    "fun_fact"    : "FIDE-rated chess player — I think in systems everywhere"
-}
-```
+<br/>
 
 ---
 
-## ✦ What I'm About
+## &nbsp;&nbsp;Stats
 
-> *"I don't just integrate AI — I build the thing around it that makes it actually useful."*
+<br/>
 
-- 🧠 Obsessed with making **AI feel seamless** in real products, not just impressive in demos
-- ⚡ Full-stack by instinct — I care about the API *and* the interface
-- 🏗️ Built a **680+ file document intelligence pipeline** for a real business — not a hackathon toy
-- ♟️ Chess captain at national level — strategy isn't just for the board
-- 📖 Currently going deep on **DSA + RAG systems** — learning in public, shipping in private
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saileed05&theme=calm&background=fdf6f0&ring=b07070&fire=b07070&currStreakLabel=b07070&sideLabels=999&dates=999&border=ead5d0&stroke=ead5d0" width="480"/>
+</div>
 
----
-
-## 🚀 Shipped
-
-### 🔍 CodeSense AI &nbsp;·&nbsp; [Live ↗](https://codesense-ai-one.vercel.app)
-`FastAPI` `React` `Gemini API` `Python AST`
-
-> AI-powered code analysis tool that explains your code at **4 expertise levels** — from ELI5 to Expert. Visual step-by-step execution tracing, bug detection, and AI-suggested fixes. Built and deployed on Vercel.
+<br/>
 
 ---
 
-### 🎯 SmartCareer AI
-`Streamlit` `Gemini 2.0` `Python` `NLP`
-
-> ATS resume scorer + dynamic mock interview system with real-time answer evaluation. Built during IBM SkillsBuild internship. Live on Streamlit Cloud.
-
----
-
-### 🌟 More cooking...
-> *"Best projects are the ones 3 tabs deep in your browser and half-alive in your terminal."*
-
----
-
-## 🛠️ Stack
+<br/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-f9e4dc?style=flat-square&logo=python&logoColor=c9857a)
-![JavaScript](https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=c9857a)
-![React](https://img.shields.io/badge/React-f9e4dc?style=flat-square&logo=react&logoColor=c9857a)
-![FastAPI](https://img.shields.io/badge/FastAPI-fadadd?style=flat-square&logo=fastapi&logoColor=c9857a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f9e4dc?style=flat-square&logo=postgresql&logoColor=c9857a)
-![Vercel](https://img.shields.io/badge/Vercel-fadadd?style=flat-square&logo=vercel&logoColor=c9857a)
-![Git](https://img.shields.io/badge/Git-f9e4dc?style=flat-square&logo=git&logoColor=c9857a)
-![Groq](https://img.shields.io/badge/Groq_LLaMA-fadadd?style=flat-square&logoColor=c9857a)
+[![Portfolio](https://img.shields.io/badge/portfolio↗-1a1a1a?style=flat-square&logoColor=white)](https://sailee-desai-portfolio.vercel.app/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin↗-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sailee-desai)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/email↗-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:desaisailee0@gmail.com)
 
 </div>
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saileed05&theme=calm&background=fdf6f0&ring=c9857a&fire=c9857a&currStreakLabel=c9857a&sideLabels=888&dates=888&border=e8d5d0" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sailee--desai-c9857a?style=for-the-badge)](https://sailee-desai-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c9857a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sailee-desai)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-c9857a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaisailee0@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0&theme=_custom&startColor=fadadd&endColor=f9e4dc&height=100&section=footer&reversal=true" width="100%"/>
-
-*Open for opportunities · Always up for interesting problems*
-
+<img src="https://capsule-render.vercel.app/api?type=soft&startColor=fce4ec&endColor=f5e6e0&height=80&section=footer&reversal=true" width="100%"/>
 </div>
